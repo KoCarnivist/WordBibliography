@@ -163,7 +163,7 @@
         <column id="2">
           <halign>left</halign>
           <valign>top</valign>
-          <format>{%Author:0%}{. %Title% [D]}{. %City|"[S.l.]"%}{: %Institution%{%Department%}}{, %Year%{%YearSuffix%}}.</format>
+          <format>{%Author:0%}{. %Title% [R]}{. %City|"[S.l.]"%}{: %Institution%{%Department%}}{, %Year%{%YearSuffix%}}.</format>
         </column>
         <sortkey></sortkey>
       </source>
